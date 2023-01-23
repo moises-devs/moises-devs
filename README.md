@@ -10,7 +10,7 @@ REACT / Material UI / Bootstrap / SCSS / JS / HTML / CSS
 Node.js / MONGODB / NOSQL 
 
 **Previously worked with:**
-C / C++ / Python / Rust / Prolog / Lisp 
+C / C++ / SWIFT / SWIFTUI / Python / Rust / Prolog / Lisp 
 
 
 - 🔭 I’m currently working on Building Full Stack Applications 
