@@ -7,7 +7,7 @@ I am CS graduate from UC Davis. I am passionate about all things user interfaces
 REACT / Material UI / Bootstrap / SCSS / JS / HTML / CSS
 
 **Learning:**
-Node.js / MONGODB / NOSQL 
+Node.js / SQL / Squelize / NOSQL 
 
 **Previously worked with:**
 C / C++ / SWIFT / SWIFTUI / Python / Rust / Prolog / Lisp 
