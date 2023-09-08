@@ -18,8 +18,6 @@ React / JS / C / C++ / SWIFT / SWIFTUI / Python / Rust / Prolog / Lisp
 [Linkedin](www.linkedin.com/in/MoisesDevs)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=moises-devs&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=48019A&ring=DDDDDD&stroke=3293DD&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&sideLabels=DDDDDD&sideNums=2EBBDD)](https://git.io/streak-stats)
-
 <!---
 Moises-knows/Moises-knows is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
