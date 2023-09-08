@@ -3,21 +3,14 @@
 
 I am CS graduate from UC Davis. I am passionate about all things user interfaces and enjoy solving user needs through tech. I love learning new technologies.
 
-**Currently working with:**
-REACT / Material UI / Bootstrap / SCSS / JS / HTML / CSS
-
-**Learning:**
-Node.js / SQL / Squelize / NOSQL 
-
-**Previously worked with:**
-C / C++ / SWIFT / SWIFTUI / Python / Rust / Prolog / Lisp 
+*** Experienced working with:**
+React / JS / C / C++ / SWIFT / SWIFTUI / Python / Rust / Prolog / Lisp 
 
 
-- 🔭 I’m currently working on Building Full Stack Applications 
-- 🌱 I’m currently learning Node.js & Next.js 
-- 👯 I’m looking to collaborate on front end issues, design conversations. 
+- 🔭 I’m currently working on building my technical skills in various areas.
+- 🌱 I’m currently obtaining my Network +. 
+- 👯 I’m looking to collaborate on IT projects and coding projects as well.  
 - 📫 How to reach me: Linked in 
-- ⚡ Fun fact: I love birds. 
 
 **Social Media:**
 [Linkedin](www.linkedin.com/in/MoisesDevs)
