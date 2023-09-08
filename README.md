@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Moises
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=21&pause=1000&color=F7F7F7&background=5512A0&center=true&vCenter=true&width=435&lines=+I+am+a+IT+Professional%2C;+Programmer+Enthusiast%2C;+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=21&pause=1000&color=F7F7F7&background=5512A0&center=true&vCenter=true&width=435&lines=+I+am+an+IT+Professional%2C;+Programmer+Enthusiast%2C;+Problem+Solver)](https://git.io/typing-svg)
 
 I am CS graduate from UC Davis. I am passionate about problem solving technical problems. Currently pursing certificates and experience to grow my expertise. 
 
